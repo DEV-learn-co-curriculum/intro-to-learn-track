@@ -1,0 +1,83 @@
+---
+track:
+    title: Intro to Learn
+    uuid: caa4abe8-cd33-4cab-bd7f-56479deaa520
+    topics:
+    -   title: Intro to Learn
+        uuid: a2fd46c9-8464-4033-86f3-bddc4f564aa9
+        units:
+        -   title: Welcome to Learn
+            uuid: 46db8ee1-afad-4d5e-9c8c-dbef9f4dde94
+            lessons:
+            -   title: A New Lesson for Testing Public Lessons
+                uuid: 298ac1a0-38a7-4bfb-b3ee-4a7e6c7456f4
+                contents:
+                -   title: A New Lesson For Testing Public Lessons
+                    source: https://github.com/DEV-learn-co-curriculum/a-new-lesson-for-testing-public-lessons
+                    uuid: 29a2962f-e8d0-4220-8a3f-12d5bf12dae6
+            -   title: The Learn Philosophy
+                uuid: 92c20ec2-e979-4539-be26-e148d2fe12a2
+                contents:
+                -   title: The Learn Philosophy
+                    source: https://github.com/learn-co-curriculum/the-learn-philosophy
+                    uuid: 5f180391-2e42-4666-9d8c-2ba9a6ac8ec3
+            -   title: Navigating Curriculum On Learn
+                uuid: 61b2dae9-5518-4a4c-b391-16ac8155f46b
+                contents:
+                -   title: Navigating Curriculum On Learn Ide
+                    source: https://github.com/learn-co-curriculum/navigating-curriculum-on-learn-ide
+                    uuid: d8b07dce-0c61-4be3-91a6-077f7640d395
+            -   title: Asking A Question
+                uuid: 31718ac0-a8fe-4f44-82ca-607f083b2b22
+                contents:
+                -   title: Ask A Question
+                    source: https://github.com/learn-co-curriculum/ask-a-question
+                    uuid: 57ca339d-bac0-49e8-9eb6-8c8bc99ef07d
+            -   title: Study Groups
+                uuid: fc121312-8ea1-409e-bf26-04d983466d32
+                contents:
+                -   title: Study Groups
+                    source: https://github.com/learn-co-curriculum/study-groups
+                    uuid: 4aa5a123-c91e-4249-afa0-af9f6bac6358
+        -   title: 'Using a Shell '
+            uuid: fc1faf6c-8fa7-4617-9318-c5391b763be7
+            lessons:
+            -   title: Intro to the Shell
+                uuid: aab7d779-3a1f-4952-ad33-cb9ebddf13da
+                contents:
+                -   title: Intro The Shell Ide
+                    source: https://github.com/learn-co-curriculum/intro-the-shell-ide
+                    uuid: c212a05b-fa44-4a17-9d71-6bee98e91f72
+            -   title: Navigating with BASH 
+                uuid: b1270694-cc4e-4da6-87be-9d7c9ef85a2c
+                contents:
+                -   title: Navigating With Bash Ide
+                    source: https://github.com/learn-co-curriculum/navigating-with-bash-ide
+                    uuid: 6fd3ec7d-3032-427f-a95d-333f34c5ff33
+            -   title: The Learn IDE
+                uuid: 93704df4-a2a2-4a54-b544-6fd128169495
+                contents:
+                -   title: Your Integrated Development Environment
+                    source: https://github.com/learn-co-curriculum/your-integrated-development-environment
+                    uuid: fa0efa42-5bad-4167-ba71-f5d5d0223e12
+        -   title: 'Solving Labs on Learn '
+            uuid: 27b8317e-b409-40a4-9f72-0f83181d448c
+            lessons:
+            -   title: Git + Github + Learn
+                uuid: 58fb64be-3a9b-407c-818e-3290006fd307
+                contents:
+                -   title: Git Github And Learn
+                    source: https://github.com/learn-co-curriculum/git-github-and-learn
+                    uuid: 7df61419-d520-45ef-b774-35aa53165f4f
+            -   title: Learn Workflow
+                uuid: 59ea5123-56f3-4415-a28a-3825401c11cc
+                contents:
+                -   title: Learn Workflow Ide
+                    source: https://github.com/learn-co-curriculum/learn-workflow-ide
+                    uuid: 41af9ec3-3ae3-4021-9007-70250d00b63f
+            -   title: First Lab
+                uuid: a1e41f24-6717-4e93-b979-0c9a338faa1c
+                contents:
+                -   title: First Lab Ruby Learn Cli Ile
+                    source: https://github.com/learn-co-curriculum/first-lab-ruby-learn-cli-ile
+                    uuid: 38d1401b-14f8-4dfb-8633-3af9fed5b8dd
